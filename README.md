@@ -6,7 +6,7 @@
 Clone the `MASQ` repository
 
 ```bash
-git clone https://github.com/amoffitt/MASQ /path/to/workdir
+git clone https://github.com/AMoffitt-Lab/MASQ /path/to/workdir
 ```
 
 Create a MASQ conda environment using
